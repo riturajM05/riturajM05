@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rituraj Mandal</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer passionate about building responsive and scalable web applications using the MERN stack.</h3>
 
-- 🔭 I’m currently working on [Chess-Platform]([https://github.com/riturajM05/chess-platform])
+- 🔭 I’m currently working on [Chess-Platform](https://github.com/riturajM05/chess-platform)
 
 <p align="left">
 </p>
